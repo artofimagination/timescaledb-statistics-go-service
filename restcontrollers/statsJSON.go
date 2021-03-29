@@ -182,5 +182,3 @@ func (c *RESTController) getOverallJSONByCategory(w ResponseWriter, r *Request) 
 
 	w.writeData(stats, http.StatusOK)
 }
-
-
