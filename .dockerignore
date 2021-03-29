@@ -1,0 +1,4 @@
+user-settings
+tests
+*_test.go
+runFunctionalTest.sh
